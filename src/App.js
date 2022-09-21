@@ -2,15 +2,14 @@ import React from 'react';
 import Headers from './Headers';
 import Article from './Article';
 import Footer from './Footer';
+import './App.css'
 
 function App (props) {
   return (
     <div>
         <Headers />
         <Article />
-        <div className="main">
-          <Footer />
-        </div>
+        <Footer />
     </div>    
   );
 };

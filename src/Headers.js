@@ -11,7 +11,7 @@ const Headers = (props) => {
     return (
         <div>
             <Navbar color="primary" dark expand="md">
-                <NavbarBrand href="/">Gastronomia</NavbarBrand>
+                <NavbarBrand href="/">fitfood</NavbarBrand>
                     <Nav className="mr-auto" navbar>
                         <NavItem>
                             <NavLink href="https://www.instagram.com/gildolanchespe/" target="_blank">O melhor de Recife</NavLink>
